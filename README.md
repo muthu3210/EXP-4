@@ -38,6 +38,7 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+
 Bridge rectifier with filter:
 
 TABULAR COLUMN
